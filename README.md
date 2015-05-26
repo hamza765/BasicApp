@@ -1,3 +1,1 @@
-# BasicApp
-
-Just a basic android app
+hello world
